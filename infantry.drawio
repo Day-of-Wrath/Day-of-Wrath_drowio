@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T09:58:43.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pcdUnP-EDd6nmka0A19h" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T10:02:41.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="eWMVjYw9Ay5jS7WYEOIy" version="24.2.3" type="github">
   <diagram name="ページ1" id="LWTCH330cGk1dUdq2kf2">
-    <mxGraphModel dx="3145" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2152" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,18 @@
         </mxCell>
         <mxCell id="3UVfZ1H2c97ZhmjEvloD-21" value="AC1500" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1180" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="3UVfZ1H2c97ZhmjEvloD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3UVfZ1H2c97ZhmjEvloD-22" target="3UVfZ1H2c97ZhmjEvloD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UVfZ1H2c97ZhmjEvloD-22" value="棍棒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3UVfZ1H2c97ZhmjEvloD-23" value="石槍" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3UVfZ1H2c97ZhmjEvloD-25" value="弓矢" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
