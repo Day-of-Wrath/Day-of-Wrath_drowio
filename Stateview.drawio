@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T05:32:24.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="fhA80vcEjzpYMmV0a8KG" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T05:49:00.503Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="9S86aITLi2pfq_Lty58o" version="24.2.5" type="github">
   <diagram name="ページ1" id="YnHl80-WtwmInPjXQaNg">
-    <mxGraphModel dx="846" dy="478" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1616" dy="1242" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="背景" style="locked=1;" parent="0" />
@@ -13,6 +13,9 @@
         </mxCell>
         <mxCell id="vuf0vQV0E-pCxMe9t_0t-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;州の名前&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="-cHXrjqksQbc73ID16UL-2">
           <mxGeometry x="300" y="60" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuf0vQV0E-pCxMe9t_0t-2" value="&lt;font style=&quot;font-size: 32px;&quot; face=&quot;Helvetica&quot;&gt;✖️&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="-cHXrjqksQbc73ID16UL-2">
+          <mxGeometry x="660" y="60" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
