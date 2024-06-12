@@ -1,0 +1,359 @@
+<mxfile host="app.diagrams.net" modified="2024-06-12T06:06:24.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mgRkYmK_aVcbZln2Ynrq" version="24.5.2" type="device">
+  <diagram name="ページ1" id="UC1ZvPvsfItQoVE1X51E">
+    <mxGraphModel dx="1908" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;日本NF (仮)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DgrZ8U0d9x9DqyQWin_n-2" target="DgrZ8U0d9x9DqyQWin_n-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-2" value="ロックダウンの継続" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DgrZ8U0d9x9DqyQWin_n-3" target="DgrZ8U0d9x9DqyQWin_n-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-3" value="昭和の代議士たちとの協力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="300" as="sourcePoint" />
+            <mxPoint x="299.9999999999999" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="340" />
+              <mxPoint x="260" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DgrZ8U0d9x9DqyQWin_n-5" target="A8l5PZniTuegfhfZUvVI-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-5" value="第三次改造内閣の&lt;div&gt;発足&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="190" as="sourcePoint" />
+            <mxPoint x="690" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgrZ8U0d9x9DqyQWin_n-8" value="黒船とMI部隊が帰投" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="825" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-1" value="専門家会議の招集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="330" as="sourcePoint" />
+            <mxPoint x="660" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="180" as="sourcePoint" />
+            <mxPoint x="730" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="660" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-7" target="A8l5PZniTuegfhfZUvVI-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-7" value="一都二県" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-9" target="A8l5PZniTuegfhfZUvVI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-9" value="防衛大綱の見直し" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-11" target="A8l5PZniTuegfhfZUvVI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-11" value="列島の把握" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-14" target="A8l5PZniTuegfhfZUvVI-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-14" value="提督を迎える" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="420" as="sourcePoint" />
+            <mxPoint x="1060" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-17" target="A8l5PZniTuegfhfZUvVI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-17" value="在日米軍との協議" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-18" target="A8l5PZniTuegfhfZUvVI-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-18" value="鎌倉七口の封鎖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-22" value="大手町の警備強化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-27" value="聯合艦隊の再編" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="420" as="sourcePoint" />
+            <mxPoint x="1220" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-32" target="A8l5PZniTuegfhfZUvVI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-32" value="機動隊の増強" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-33" value="暫時的公安条例の&lt;div&gt;制定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-36" value="黒船を送る" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-39" value="国家統合対策委員会の設立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-46" target="A8l5PZniTuegfhfZUvVI-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-46" value="京浜工業地帯の&lt;div&gt;再操業&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-49" target="A8l5PZniTuegfhfZUvVI-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-49" value="都内インフラの&lt;div&gt;見直し&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-50" value="横須賀の整備" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="420" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-53" target="A8l5PZniTuegfhfZUvVI-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-53" value="利根川治水プロジェクト" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-54" value="千葉への注力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-55" value="鉄道の修復" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="510" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="530" as="sourcePoint" />
+            <mxPoint x="260" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-59" value="将軍への謁見" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="500" as="sourcePoint" />
+            <mxPoint x="680" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-50" target="A8l5PZniTuegfhfZUvVI-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="570" as="sourcePoint" />
+            <mxPoint x="460" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="580" />
+              <mxPoint x="420" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-63" value="部分的な通信の回復" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="580" as="sourcePoint" />
+            <mxPoint x="740" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="580" />
+              <mxPoint x="740" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="580" as="sourcePoint" />
+            <mxPoint x="580" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-69" target="A8l5PZniTuegfhfZUvVI-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-69" value="狸に化かされる" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-70" target="A8l5PZniTuegfhfZUvVI-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-70" value="永田町の勝利" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-73" value="！" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="570" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-77" value="一国二制度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-79" value="近代的幕府？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-77" target="A8l5PZniTuegfhfZUvVI-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="750" as="sourcePoint" />
+            <mxPoint x="700" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="740" />
+              <mxPoint x="740" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-82" target="A8l5PZniTuegfhfZUvVI-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-82" value="段階的なロックダウンの解除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="740" as="sourcePoint" />
+            <mxPoint x="760" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-84" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="670" as="sourcePoint" />
+            <mxPoint x="580" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-85" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-27" target="A8l5PZniTuegfhfZUvVI-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="640" as="sourcePoint" />
+            <mxPoint x="1090" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="580" />
+              <mxPoint x="1220" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="640" as="sourcePoint" />
+            <mxPoint x="1060" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-87" value="防衛省の再設立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="A8l5PZniTuegfhfZUvVI-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="740" as="sourcePoint" />
+            <mxPoint x="970" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8l5PZniTuegfhfZUvVI-90" target="A8l5PZniTuegfhfZUvVI-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-90" value="明治の元老との合流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="260" as="sourcePoint" />
+            <mxPoint x="730" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="260" />
+              <mxPoint x="820" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-93" value="菅内閣の発足にして史実と重ねるのもアリ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A8l5PZniTuegfhfZUvVI-94" value="安倍内閣の解散" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
