@@ -1,0 +1,715 @@
+<mxfile host="app.diagrams.net" modified="2024-07-15T06:20:22.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3BlZk3qn8QfO_yal7RHJ" version="24.6.5" type="device">
+  <diagram name="ページ1" id="NdRuTDRebh9MN4a-2RcH">
+    <mxGraphModel dx="3180" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-217" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="2020" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-218" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="2140" width="160" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="840" width="400" height="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="480" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DwcxrSSOxpECxM9iUJza-1" target="DwcxrSSOxpECxM9iUJza-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-1" value="石槍" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DwcxrSSOxpECxM9iUJza-2" target="DwcxrSSOxpECxM9iUJza-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-2" value="石槍Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DwcxrSSOxpECxM9iUJza-4" target="DwcxrSSOxpECxM9iUJza-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;槍兵装備Ⅰ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;投槍&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(アトラトルotジャベリン)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="DwcxrSSOxpECxM9iUJza-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="140" as="sourcePoint" />
+            <mxPoint x="630" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DwcxrSSOxpECxM9iUJza-9" target="DwcxrSSOxpECxM9iUJza-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;石斧&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DwcxrSSOxpECxM9iUJza-11" target="Y0thaKrpb1zDU8qjCCU0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-11" value="軽歩兵装備Ⅰ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="DwcxrSSOxpECxM9iUJza-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="220" as="sourcePoint" />
+            <mxPoint x="700" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DwcxrSSOxpECxM9iUJza-16" target="DwcxrSSOxpECxM9iUJza-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-16" value="弓矢" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DwcxrSSOxpECxM9iUJza-17" target="DwcxrSSOxpECxM9iUJza-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-17" value="弓矢Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DwcxrSSOxpECxM9iUJza-19" target="Y0thaKrpb1zDU8qjCCU0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-19" value="弓兵装備Ⅰ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DwcxrSSOxpECxM9iUJza-22" target="Y0thaKrpb1zDU8qjCCU0-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;槍兵装備ⅠI&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DwcxrSSOxpECxM9iUJza-24" target="Y0thaKrpb1zDU8qjCCU0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DwcxrSSOxpECxM9iUJza-24" value="重装歩兵I" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;石器の加工技術&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-4" value="青銅の生産技術" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-6" target="Y0thaKrpb1zDU8qjCCU0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-6" value="軽歩兵装備ⅠI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-9" value="戦斧含む" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-12" value="軽歩兵装備IⅠI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-14" value="鉄剣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-16" value="初期の製鉄技術" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-17" target="Y0thaKrpb1zDU8qjCCU0-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-17" value="弓兵装備IⅠ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-24" value="火薬の生産技術" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-30" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;槍兵装備IⅠI&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y0thaKrpb1zDU8qjCCU0-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="700" as="sourcePoint" />
+            <mxPoint x="550" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-12" target="Y0thaKrpb1zDU8qjCCU0-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="760" as="sourcePoint" />
+            <mxPoint x="700" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-36" target="Y0thaKrpb1zDU8qjCCU0-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-36" value="軽歩兵装備Ⅳ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="720" as="sourcePoint" />
+            <mxPoint x="540" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-38" value="重装歩兵II" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-41" target="Y0thaKrpb1zDU8qjCCU0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-41" value="騎兵III" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-42" target="Y0thaKrpb1zDU8qjCCU0-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-42" value="重装騎兵I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="650" as="sourcePoint" />
+            <mxPoint x="860" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-45" value="騎兵II" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-46" target="Y0thaKrpb1zDU8qjCCU0-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-46" value="騎兵I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-45" target="Y0thaKrpb1zDU8qjCCU0-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="690" as="sourcePoint" />
+            <mxPoint x="790" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-50" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;騎兵と弓兵装備を絡めたい&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;けどやり方が思いつかない&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=20;position=0.07;position2=0;base=30;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-51" value="青銅剣I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-51" target="DwcxrSSOxpECxM9iUJza-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-55" target="Y0thaKrpb1zDU8qjCCU0-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-55" value="支援火器I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-56" target="Y0thaKrpb1zDU8qjCCU0-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-56" value="支援火器II" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-58" target="Y0thaKrpb1zDU8qjCCU0-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-58" value="重装騎兵II" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-60" target="Y0thaKrpb1zDU8qjCCU0-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-60" value="弓兵装備IIⅠ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-62" target="Y0thaKrpb1zDU8qjCCU0-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-62" value="弓兵装備Ⅳ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-64" target="Y0thaKrpb1zDU8qjCCU0-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-64" value="重装騎兵III" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-66" value="長弓" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-67" value="火槍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-69" value="火槍は火砲ツリー&lt;div&gt;とも関わってきます&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=20;size=30;position=0.75;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1060" as="sourcePoint" />
+            <mxPoint x="460" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="940" />
+              <mxPoint x="460" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y0thaKrpb1zDU8qjCCU0-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="940" as="sourcePoint" />
+            <mxPoint x="460" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-72" target="Y0thaKrpb1zDU8qjCCU0-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-72" value="&lt;span style=&quot;background-color: initial;&quot;&gt;マスケット銃Ⅰ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-73" target="Y0thaKrpb1zDU8qjCCU0-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-73" value="軽歩兵装備Ⅴ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-75" target="Y0thaKrpb1zDU8qjCCU0-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-75" value="&lt;div&gt;マスケット銃Ⅱ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-77" value="&lt;div&gt;マスケット銃Ⅲ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-79" value="マッチロック式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-80" value="ホイールロック式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-82" value="フリントロック式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-83" target="Y0thaKrpb1zDU8qjCCU0-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-83" value="騎兵Ⅳ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-85" value="弓兵装備Ⅴ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-87" value="紙製薬莢" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-87" target="Y0thaKrpb1zDU8qjCCU0-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="1190" as="sourcePoint" />
+            <mxPoint x="400" y="1440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1420" />
+              <mxPoint x="460" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-90" value="軽歩兵装備Ⅵ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-92" target="Y0thaKrpb1zDU8qjCCU0-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-92" value="マスケット銃Ⅳ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-93" target="Y0thaKrpb1zDU8qjCCU0-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-93" value="マスケット銃Ⅴ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-95" target="Y0thaKrpb1zDU8qjCCU0-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-95" value="歩兵銃Ⅰ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-97" value="銃剣" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-98" value="雷管式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y0thaKrpb1zDU8qjCCU0-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1420" as="sourcePoint" />
+            <mxPoint x="580" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-105" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y0thaKrpb1zDU8qjCCU0-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1420" as="sourcePoint" />
+            <mxPoint x="540" y="1260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-106" target="Y0thaKrpb1zDU8qjCCU0-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-106" value="歩兵銃Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-108" value="前装式ライフル銃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-109" target="Y0thaKrpb1zDU8qjCCU0-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-109" value="歩兵銃Ⅲ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-111" value="後装式ライフル銃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1880" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-112" target="Y0thaKrpb1zDU8qjCCU0-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-112" value="マスケット銃Ⅵ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-115" value="ライフルマスケット" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-116" target="Y0thaKrpb1zDU8qjCCU0-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-116" value="歩兵銃Ⅳ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-118" value="ボルトアクション式小銃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2000" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-119" target="Y0thaKrpb1zDU8qjCCU0-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-119" value="歩兵銃Ⅴ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-121" value="自動小銃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2080" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-122" target="Y0thaKrpb1zDU8qjCCU0-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-122" value="歩兵銃Ⅵ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-124" target="Y0thaKrpb1zDU8qjCCU0-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-124" value="歩兵銃Ⅶ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-126" value="歩兵銃Ⅷ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-128" target="Y0thaKrpb1zDU8qjCCU0-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-128" value="支援火器Ⅲ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-130" target="Y0thaKrpb1zDU8qjCCU0-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-130" value="支援火器Ⅳ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-132" target="Y0thaKrpb1zDU8qjCCU0-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-132" value="支援火器Ⅴ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-134" target="Y0thaKrpb1zDU8qjCCU0-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-134" value="支援火器Ⅵ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-136" target="Y0thaKrpb1zDU8qjCCU0-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-136" value="支援火器Ⅶ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-138" target="Y0thaKrpb1zDU8qjCCU0-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-138" value="支援火器Ⅷ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-140" target="Y0thaKrpb1zDU8qjCCU0-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-140" value="支援火器Ⅸ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-142" value="支援火器Ⅹ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-145" target="Y0thaKrpb1zDU8qjCCU0-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-145" value="騎兵Ⅴ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-147" target="Y0thaKrpb1zDU8qjCCU0-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-147" value="騎兵Ⅵ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-149" value="騎兵Ⅵ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-151" target="Y0thaKrpb1zDU8qjCCU0-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-151" value="初期のトラック" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-152" target="Y0thaKrpb1zDU8qjCCU0-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-152" value="軍用トラック" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-154" target="Y0thaKrpb1zDU8qjCCU0-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-154" value="機械化Ⅰ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-156" target="Y0thaKrpb1zDU8qjCCU0-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-156" value="機械化Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-158" value="機械化Ⅲ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-160" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="2220" as="sourcePoint" />
+            <mxPoint x="1020" y="2240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="2220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-161" target="Y0thaKrpb1zDU8qjCCU0-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-161" value="水陸両用車Ⅰ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-162" value="水陸両用車Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-164" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="2020" as="sourcePoint" />
+            <mxPoint x="1180" y="2080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-165" target="Y0thaKrpb1zDU8qjCCU0-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-165" value="装甲車Ⅰ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-166" target="Y0thaKrpb1zDU8qjCCU0-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-166" value="装甲車Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-169" value="暗視装置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2085" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-170" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="2120" as="sourcePoint" />
+            <mxPoint x="580" y="2160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="2120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-171" target="Y0thaKrpb1zDU8qjCCU0-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-171" value="対戦車&lt;div&gt;装備Ⅰ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-172" value="対戦車&lt;div&gt;装備Ⅱ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-175" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y0thaKrpb1zDU8qjCCU0-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="1140" as="sourcePoint" />
+            <mxPoint x="750" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-176" value="兵種&lt;div&gt;-重騎兵&lt;/div&gt;&lt;div&gt;-軽騎兵&lt;/div&gt;&lt;div&gt;解禁…？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-177" value="装甲車Ⅲ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-179" value="&lt;span style=&quot;color: rgb(77, 81, 86); font-family: Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;多連装ロケット砲&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1960" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-180" target="Y0thaKrpb1zDU8qjCCU0-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-180" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-181" target="Y0thaKrpb1zDU8qjCCU0-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-181" value="山岳兵&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%B7%E5%85%B5%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%222200%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-182" target="Y0thaKrpb1zDU8qjCCU0-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-182" value="空挺兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-183" target="Y0thaKrpb1zDU8qjCCU0-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-183" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-185" target="Y0thaKrpb1zDU8qjCCU0-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-185" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-187" target="Y0thaKrpb1zDU8qjCCU0-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-187" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-189" target="Y0thaKrpb1zDU8qjCCU0-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-189" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-191" target="Y0thaKrpb1zDU8qjCCU0-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-191" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-193" target="Y0thaKrpb1zDU8qjCCU0-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-193" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-195" value="海兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-197" target="Y0thaKrpb1zDU8qjCCU0-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-197" value="山岳兵&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%B7%E5%85%B5%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%222200%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-199" target="Y0thaKrpb1zDU8qjCCU0-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-199" value="山岳兵&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%B7%E5%85%B5%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%222200%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-201" target="Y0thaKrpb1zDU8qjCCU0-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-201" value="山岳兵&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%B7%E5%85%B5%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%222200%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-203" target="Y0thaKrpb1zDU8qjCCU0-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-203" value="山岳兵&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%B7%E5%85%B5%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%222200%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-205" value="山岳兵&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B5%B7%E5%85%B5%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%222200%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-207" value="輸送機" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="2000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-208" target="Y0thaKrpb1zDU8qjCCU0-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-208" value="空挺兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-210" value="空挺兵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y0thaKrpb1zDU8qjCCU0-212" target="Y0thaKrpb1zDU8qjCCU0-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-212" value="ヘリボーン&lt;div&gt;師団&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="2200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-213" value="ヘリボーン&lt;div&gt;師団&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="2400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-215" value="初期型ヘリコプター" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="2120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0thaKrpb1zDU8qjCCU0-219" value="海兵の歴史は意外に古い&lt;div&gt;移乗攻撃の戦術解放とかに使うと良いかも&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=30;size=30;position=0.67;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1000" width="150" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
