@@ -1,0 +1,259 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5">
+  <diagram name="ページ1" id="g4KOrIj9xowHmcNTtJZD">
+    <mxGraphModel dx="2120" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1060" width="540" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-2" target="DIlrH3gbRX5MO14kNmKi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-2" value="軟式飛行船" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-4" target="DIlrH3gbRX5MO14kNmKi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-4" value="反硬式飛行船" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-5" value="硬式飛行船" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-7" value="蒸気機関" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-8" value="熱気球" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-11" target="DIlrH3gbRX5MO14kNmKi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-11" value="ガス気球" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-12" value="自由気球" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-13" value="熱力学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-15" value="ヘリウムの発見" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DIlrH3gbRX5MO14kNmKi-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="630" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-19" target="DIlrH3gbRX5MO14kNmKi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-19" value="黎明期の航空機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-21" target="DIlrH3gbRX5MO14kNmKi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-21" value="小型木製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DIlrH3gbRX5MO14kNmKi-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="620" as="sourcePoint" />
+            <mxPoint x="460" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-24" target="DIlrH3gbRX5MO14kNmKi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-24" value="中型木製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-26" target="DIlrH3gbRX5MO14kNmKi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-26" value="小型ジュラルミン製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-28" target="DIlrH3gbRX5MO14kNmKi-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-28" value="中型ジュラルミン製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="700" as="sourcePoint" />
+            <mxPoint x="580" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-31" target="DIlrH3gbRX5MO14kNmKi-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-31" value="大型ジュラルミン製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-33" target="DIlrH3gbRX5MO14kNmKi-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-33" value="小型ジュラルミン製機体Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-35" target="DIlrH3gbRX5MO14kNmKi-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-35" value="中型ジュラルミン製機体Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-37" target="DIlrH3gbRX5MO14kNmKi-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-37" value="大型ジュラルミン製機体Ⅱ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-39" target="DIlrH3gbRX5MO14kNmKi-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-39" value="小型ジュラルミン製機体Ⅲ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-41" target="DIlrH3gbRX5MO14kNmKi-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-41" value="中型ジュラルミン製機体Ⅲ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-43" target="DIlrH3gbRX5MO14kNmKi-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-43" value="大型ジュラルミン製機体Ⅲ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-45" target="DIlrH3gbRX5MO14kNmKi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-45" value="ジャイロ・プレーン" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-47" target="DIlrH3gbRX5MO14kNmKi-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-47" value="オートジャイロ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-49" target="DIlrH3gbRX5MO14kNmKi-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-49" value="初期型ヘリコプター" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-50" value="小型繊維強化プラスチック製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-51" value="中型繊維強化プラスチック製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-52" value="大型繊維強化プラスチック製機体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-53" value="発展型電子機器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-54" value="攻撃ドローン" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="1280" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-57" target="DIlrH3gbRX5MO14kNmKi-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-57" value="対戦期型&lt;div&gt;ヘリコプター&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-58" value="オートジャイロⅡ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-60" target="DIlrH3gbRX5MO14kNmKi-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-60" value="&lt;div&gt;輸送ヘリコプター&lt;span style=&quot;background-color: initial;&quot;&gt;Ⅰ&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="940" as="sourcePoint" />
+            <mxPoint x="860" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="940" as="sourcePoint" />
+            <mxPoint x="1260" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-64" target="DIlrH3gbRX5MO14kNmKi-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-64" value="戦闘ヘリコプターⅠ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DIlrH3gbRX5MO14kNmKi-66" target="DIlrH3gbRX5MO14kNmKi-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-66" value="哨戒ヘリコプターⅠ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-67" value="戦闘ヘリコプターⅡ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-68" value="&lt;div&gt;輸送ヘリコプター&lt;span style=&quot;background-color: initial;&quot;&gt;Ⅱ&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="900" width="560" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-70" value="哨戒ヘリコプターⅡ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1220" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-72" value="ジェットエンジン" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-73" value="現代型無線装置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DIlrH3gbRX5MO14kNmKi-17" value="航空力学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
